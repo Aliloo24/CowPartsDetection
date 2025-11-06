@@ -6,7 +6,7 @@ This repository includes the dataset, code, trained weights, and evaluation scri
 
 
 # Dataset
-The generated dataset & pretrained weights are available upon request at: https://drive.google.com/drive/folders/1nTPG-LUttDrjc1t94zAtxqxQk1c2g1zZ?usp=drive_link
+The generated dataset & pretrained weights are available at: https://drive.google.com/drive/folders/13f_VB8BQwEgKn23veIKRczTWxYjdXXeL?usp=sharing
 
 # Dataset Samples with Bounding Boxs
 <img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/6f58196b-3819-45a8-b04f-a226c031c9cc" />
