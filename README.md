@@ -9,7 +9,8 @@ This repository includes the dataset, code, trained weights, and evaluation scri
 The generated dataset & pretrained weights are available at: https://drive.google.com/drive/folders/13f_VB8BQwEgKn23veIKRczTWxYjdXXeL?usp=sharing
 
 # Dataset Samples with Bounding Boxs
-<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/6f58196b-3819-45a8-b04f-a226c031c9cc" />
+<img width="551" height="302" alt="image" src="https://github.com/user-attachments/assets/aeb26639-c8a1-49fa-8d15-bec1ed214dd0" />
+
 
 # Qualitative Results
 <img width="607" height="357" alt="image" src="https://github.com/user-attachments/assets/727c586e-e0df-4ac7-9f2a-3340bd012eb3" />
