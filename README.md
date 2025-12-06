@@ -10,7 +10,3 @@ The generated dataset & pretrained weights are available at: https://drive.googl
 
 # Dataset Samples with Bounding Boxs
 <img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/6f58196b-3819-45a8-b04f-a226c031c9cc" />
-
-
-# Qualitative Detection Results
-![figure_6](https://github.com/user-attachments/assets/3ea030b5-129e-495b-b9b5-ab02a7d79a1f)
