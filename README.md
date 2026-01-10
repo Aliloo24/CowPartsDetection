@@ -1,5 +1,5 @@
 # CowPartsDetection
-This repository includes the dataset, code, trained weights, and evaluation scripts for our YOLOv5 model enhanced with MS-CBAM, improving detection of cattle parts (head, body, legs, tail) in challenging farm environments.
+This repository includes the dataset, code and trained weights of our YOLOv5 model enhanced with MS-CBAM, improving detection of cattle parts (head, body, legs, tail) in challenging farm environments.
 
 # System Architecture
 <img width="656" height="509" alt="image" src="https://github.com/user-attachments/assets/3dfc2f1b-c533-4e9b-804d-a89d906f8add" />
